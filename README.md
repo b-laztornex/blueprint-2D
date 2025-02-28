@@ -27,3 +27,9 @@ npm run test
 
 - Best Practices:
   The solution uses TypeScript for type safety, React hooks for state management, and Tailwind CSS for fast and responsive styling.
+
+# Structure
+
+- **tests**: All tests will be placed here.
+- components: All modular, reusable components go here.
+- lib: Contains all hard-coded data and type definitions.
